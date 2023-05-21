@@ -1,0 +1,273 @@
+Bomb
+package hr.algebra.sprites
+
+public Bomb
+extends java.lang.Object
+implements hr.algebra.entity.Entity
+
+public int hr.algebra.sprites.Bomb.positionX
+public int hr.algebra.sprites.Bomb.positionY
+private int hr.algebra.sprites.Bomb.height
+private int hr.algebra.sprites.Bomb.width
+private hr.algebra.sprites.Sprite hr.algebra.sprites.Bomb.sprite
+hr.algebra.boundrybox.RectBoundryBox hr.algebra.sprites.Bomb.entityBoundary
+hr.algebra.animations.BombAnimation hr.algebra.sprites.Bomb.bomb_animations
+java.util.Date hr.algebra.sprites.Bomb.addedDate
+int hr.algebra.sprites.Bomb.timerDurationInMillis
+hr.algebra.sprites.Bomb$STATE hr.algebra.sprites.Bomb.bombState
+int hr.algebra.sprites.Bomb.layer
+double hr.algebra.sprites.Bomb.scale
+
+public class java.lang.String getName()
+public boolean isAlive()
+public int getPositionX()
+public int getPositionY()
+public double getScale()
+public void draw()
+public int getLayer()
+public boolean isColliding(hr.algebra.entity.Entity arg0)
+public class hr.algebra.boundrybox.RectBoundryBox getBoundryBox()
+public void move(int arg0, hr.algebra.constants.Direction arg1)
+public boolean isPlayerCollisionFriendly()
+public void setScale(double arg0)
+public class hr.algebra.sprites.Bomb$STATE checkBombState()
+
+public hr.algebra.sprites.Bomb(int arg0, int arg1)
+
+Brick
+package hr.algebra.sprites
+
+public Brick
+extends java.lang.Object
+implements hr.algebra.entity.Entity
+
+public int hr.algebra.sprites.Brick.positionX
+public int hr.algebra.sprites.Brick.positionY
+private int hr.algebra.sprites.Brick.height
+private int hr.algebra.sprites.Brick.width
+private hr.algebra.sprites.Sprite hr.algebra.sprites.Brick.sprite
+hr.algebra.boundrybox.RectBoundryBox hr.algebra.sprites.Brick.entityBoundary
+int hr.algebra.sprites.Brick.layer
+double hr.algebra.sprites.Brick.scale
+
+public class java.lang.String getName()
+public int getPositionX()
+public int getPositionY()
+public double getScale()
+public void draw()
+public int getLayer()
+public boolean isColliding(hr.algebra.entity.Entity arg0)
+public class hr.algebra.boundrybox.RectBoundryBox getBoundryBox()
+public void move(int arg0, hr.algebra.constants.Direction arg1)
+public boolean isPlayerCollisionFriendly()
+public void setScale(double arg0)
+
+public hr.algebra.sprites.Brick(int arg0, int arg1)
+
+Explosion
+package hr.algebra.sprites
+
+public Explosion
+extends java.lang.Object
+implements hr.algebra.entity.Entity
+
+public int hr.algebra.sprites.Explosion.positionX
+public int hr.algebra.sprites.Explosion.positionY
+private int hr.algebra.sprites.Explosion.height
+private int hr.algebra.sprites.Explosion.width
+private hr.algebra.sprites.Sprite hr.algebra.sprites.Explosion.sprite
+hr.algebra.boundrybox.RectBoundryBox hr.algebra.sprites.Explosion.entityBoundary
+hr.algebra.animations.FlameAnimation hr.algebra.sprites.Explosion.bomb_animations
+java.util.Date hr.algebra.sprites.Explosion.addedDate
+int hr.algebra.sprites.Explosion.timerDurationInMillis
+hr.algebra.sprites.Explosion$STATE hr.algebra.sprites.Explosion.explosionState
+int hr.algebra.sprites.Explosion.layer
+double hr.algebra.sprites.Explosion.scale
+private java.lang.String hr.algebra.sprites.Explosion.stranaExp
+
+public class java.lang.String getName()
+public int getPositionX()
+public int getPositionY()
+public double getScale()
+public void draw()
+public int getLayer()
+public boolean isColliding(hr.algebra.entity.Entity arg0)
+public class hr.algebra.boundrybox.RectBoundryBox getBoundryBox()
+public void move(int arg0, hr.algebra.constants.Direction arg1)
+public boolean isPlayerCollisionFriendly()
+public boolean isExploading()
+public void setScale(double arg0)
+public class hr.algebra.sprites.Explosion$STATE checkExplosionState()
+
+public hr.algebra.sprites.Explosion(int arg0, int arg1)
+
+Getter
+package hr.algebra.sprites
+
+public abstract interface Getter
+implements java.lang.annotation.Annotation
+
+
+public abstract class java.lang.String comment()
+
+
+Grass
+package hr.algebra.sprites
+
+public Grass
+extends java.lang.Object
+implements hr.algebra.entity.Entity
+
+public int hr.algebra.sprites.Grass.positionX
+public int hr.algebra.sprites.Grass.positionY
+private int hr.algebra.sprites.Grass.height
+private int hr.algebra.sprites.Grass.width
+private hr.algebra.sprites.Sprite hr.algebra.sprites.Grass.sprite
+hr.algebra.boundrybox.RectBoundryBox hr.algebra.sprites.Grass.entityBoundary
+int hr.algebra.sprites.Grass.layer
+double hr.algebra.sprites.Grass.scale
+
+public class java.lang.String getName()
+public int getPositionX()
+public int getPositionY()
+public double getScale()
+public void draw()
+public int getLayer()
+public boolean isColliding(hr.algebra.entity.Entity arg0)
+public class hr.algebra.boundrybox.RectBoundryBox getBoundryBox()
+public void move(int arg0, hr.algebra.constants.Direction arg1)
+public boolean isPlayerCollisionFriendly()
+public void setScale(double arg0)
+
+public hr.algebra.sprites.Grass(int arg0, int arg1)
+
+Player
+package hr.algebra.sprites
+
+public Player
+extends java.lang.Object
+implements hr.algebra.entity.MovingEntity
+
+private boolean hr.algebra.sprites.Player.isAlive
+hr.algebra.boundrybox.RectBoundryBox hr.algebra.sprites.Player.playerBoundary
+hr.algebra.sprites.Sprite hr.algebra.sprites.Player.currentSprite
+hr.algebra.animations.PlayerAnimations hr.algebra.sprites.Player.playerAnimations
+hr.algebra.constants.Direction hr.algebra.sprites.Player.currentDirection
+public int hr.algebra.sprites.Player.positionX
+public int hr.algebra.sprites.Player.positionY
+int hr.algebra.sprites.Player.layer
+java.lang.String hr.algebra.sprites.Player.name
+double hr.algebra.sprites.Player.scale
+double hr.algebra.sprites.Player.reduceBoundarySizePercent
+public int hr.algebra.sprites.Player.bombCount
+
+public class java.lang.String toString()
+@hr.algebra.sprites.Getter(comment=retrives Name)
+public class java.lang.String getName()
+private void init(int arg0, int arg1, java.lang.String arg2)
+public boolean isAlive()
+@hr.algebra.sprites.Getter(comment=retrives X possition)
+public int getPositionX()
+@hr.algebra.sprites.Getter(comment=retrives Y possition)
+public int getPositionY()
+public double getScale()
+public void draw()
+@hr.algebra.sprites.Getter(comment=retrives layer)
+public int getLayer()
+public boolean isColliding(hr.algebra.entity.Entity arg0)
+public class hr.algebra.boundrybox.RectBoundryBox getBoundryBox()
+public void move(hr.algebra.constants.Direction arg0)
+public void move(int arg0, hr.algebra.constants.Direction arg1)
+public boolean isPlayerCollisionFriendly()
+public void decrementBombCount()
+public void incrementBombCount()
+public double getReduceBoundarySizePercent()
+public void setReduceBoundarySizePercent(double arg0)
+public void setLayer(int arg0)
+public boolean hasMoreBombs()
+private boolean checkCollisions(int arg0, int arg1)
+public void setScale(int arg0)
+private void setCurrentSprite(hr.algebra.sprites.Sprite arg0)
+
+public hr.algebra.sprites.Player(int arg0, int arg1, java.lang.String arg2)
+
+SaveSprite
+package hr.algebra.sprites
+
+public SaveSprite
+extends java.lang.Object
+implements java.io.Serializable
+
+public int hr.algebra.sprites.SaveSprite.xOS
+public int hr.algebra.sprites.SaveSprite.yOS
+public int hr.algebra.sprites.SaveSprite.sloj
+
+public int getSloj()
+public int getyOS()
+public void setxOS(int arg0)
+public void setyOS(int arg0)
+public void setSloj(int arg0)
+public int getxOS()
+
+public hr.algebra.sprites.SaveSprite()
+public hr.algebra.sprites.SaveSprite(int arg0, int arg1, int arg2)
+
+Sprite
+package hr.algebra.sprites
+
+public Sprite
+extends java.lang.Object
+
+public double hr.algebra.sprites.Sprite.playSpeed
+public int hr.algebra.sprites.Sprite.spriteLocationOnSheetX
+public int hr.algebra.sprites.Sprite.spriteLocationOnSheetY
+public int hr.algebra.sprites.Sprite.numberOfFrames
+public double hr.algebra.sprites.Sprite.width
+public double hr.algebra.sprites.Sprite.height
+private double hr.algebra.sprites.Sprite.scale
+public int hr.algebra.sprites.Sprite.actualSize
+public boolean hr.algebra.sprites.Sprite.resersePlay
+public javafx.scene.image.Image[] hr.algebra.sprites.Sprite.spriteImages
+public boolean hr.algebra.sprites.Sprite.hasValidSpriteImages
+public hr.algebra.entity.Entity hr.algebra.sprites.Sprite.entityReference
+
+public double getScale()
+public void setEntityReference(hr.algebra.entity.Entity arg0)
+public interface hr.algebra.entity.Entity getEntityReference()
+public int getYPosition()
+public int getXPosition()
+public void setScale(double arg0)
+
+public hr.algebra.sprites.Sprite(hr.algebra.entity.Entity arg0, int arg1, double arg2, javafx.scene.image.Image arg3, java.util.List<javafx.scene.shape.Rectangle> arg4, double arg5, double arg6, double arg7, boolean arg8)
+public hr.algebra.sprites.Sprite(hr.algebra.entity.Entity arg0, int arg1, double arg2, int arg3, int arg4, int arg5, double arg6, double arg7, double arg8, boolean arg9)
+
+Wall
+package hr.algebra.sprites
+
+public Wall
+extends java.lang.Object
+implements hr.algebra.entity.Entity
+
+public int hr.algebra.sprites.Wall.positionX
+public int hr.algebra.sprites.Wall.positionY
+private int hr.algebra.sprites.Wall.height
+private int hr.algebra.sprites.Wall.width
+private hr.algebra.sprites.Sprite hr.algebra.sprites.Wall.sprite
+hr.algebra.boundrybox.RectBoundryBox hr.algebra.sprites.Wall.entityBoundary
+int hr.algebra.sprites.Wall.layer
+double hr.algebra.sprites.Wall.scale
+
+public class java.lang.String getName()
+public int getPositionX()
+public int getPositionY()
+public double getScale()
+public void draw()
+public int getLayer()
+public boolean isColliding(hr.algebra.entity.Entity arg0)
+public class hr.algebra.boundrybox.RectBoundryBox getBoundryBox()
+public void move(int arg0, hr.algebra.constants.Direction arg1)
+public boolean isPlayerCollisionFriendly()
+public void setScale(double arg0)
+
+public hr.algebra.sprites.Wall(int arg0, int arg1)
+

@@ -1,0 +1,1607 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<sprites>
+    <sloj layer="-1">
+        <xOs>32</xOs>
+        <yOs>96</yOs>
+    </sloj>
+    <sloj layer="-1">
+        <xOs>64</xOs>
+        <yOs>96</yOs>
+    </sloj>
+    <sloj layer="-1">
+        <xOs>96</xOs>
+        <yOs>96</yOs>
+    </sloj>
+    <sloj layer="-1">
+        <xOs>128</xOs>
+        <yOs>96</yOs>
+    </sloj>
+    <sloj layer="-1">
+        <xOs>160</xOs>
+        <yOs>96</yOs>
+    </sloj>
+    <sloj layer="-1">
+        <xOs>192</xOs>
+        <yOs>96</yOs>
+    </sloj>
+    <sloj layer="-1">
+        <xOs>224</xOs>
+        <yOs>96</yOs>
+    </sloj>
+    <sloj layer="-1">
+        <xOs>256</xOs>
+        <yOs>96</yOs>
+    </sloj>
+    <sloj layer="-1">
+        <xOs>288</xOs>
+        <yOs>96</yOs>
+    </sloj>
+    <sloj layer="-1">
+        <xOs>320</xOs>
+        <yOs>96</yOs>
+    </sloj>
+    <sloj layer="-1">
+        <xOs>352</xOs>
+        <yOs>96</yOs>
+    </sloj>
+    <sloj layer="-1">
+        <xOs>384</xOs>
+        <yOs>96</yOs>
+    </sloj>
+    <sloj layer="-1">
+        <xOs>416</xOs>
+        <yOs>96</yOs>
+    </sloj>
+    <sloj layer="-1">
+        <xOs>448</xOs>
+        <yOs>96</yOs>
+    </sloj>
+    <sloj layer="-1">
+        <xOs>480</xOs>
+        <yOs>96</yOs>
+    </sloj>
+    <sloj layer="-1">
+        <xOs>512</xOs>
+        <yOs>96</yOs>
+    </sloj>
+    <sloj layer="-1">
+        <xOs>544</xOs>
+        <yOs>96</yOs>
+    </sloj>
+    <sloj layer="-1">
+        <xOs>576</xOs>
+        <yOs>96</yOs>
+    </sloj>
+    <sloj layer="-1">
+        <xOs>32</xOs>
+        <yOs>128</yOs>
+    </sloj>
+    <sloj layer="-1">
+        <xOs>64</xOs>
+        <yOs>128</yOs>
+    </sloj>
+    <sloj layer="-1">
+        <xOs>96</xOs>
+        <yOs>128</yOs>
+    </sloj>
+    <sloj layer="-1">
+        <xOs>128</xOs>
+        <yOs>128</yOs>
+    </sloj>
+    <sloj layer="-1">
+        <xOs>160</xOs>
+        <yOs>128</yOs>
+    </sloj>
+    <sloj layer="-1">
+        <xOs>192</xOs>
+        <yOs>128</yOs>
+    </sloj>
+    <sloj layer="-1">
+        <xOs>224</xOs>
+        <yOs>128</yOs>
+    </sloj>
+    <sloj layer="-1">
+        <xOs>256</xOs>
+        <yOs>128</yOs>
+    </sloj>
+    <sloj layer="-1">
+        <xOs>288</xOs>
+        <yOs>128</yOs>
+    </sloj>
+    <sloj layer="-1">
+        <xOs>320</xOs>
+        <yOs>128</yOs>
+    </sloj>
+    <sloj layer="-1">
+        <xOs>352</xOs>
+        <yOs>128</yOs>
+    </sloj>
+    <sloj layer="-1">
+        <xOs>384</xOs>
+        <yOs>128</yOs>
+    </sloj>
+    <sloj layer="-1">
+        <xOs>416</xOs>
+        <yOs>128</yOs>
+    </sloj>
+    <sloj layer="-1">
+        <xOs>448</xOs>
+        <yOs>128</yOs>
+    </sloj>
+    <sloj layer="-1">
+        <xOs>480</xOs>
+        <yOs>128</yOs>
+    </sloj>
+    <sloj layer="-1">
+        <xOs>512</xOs>
+        <yOs>128</yOs>
+    </sloj>
+    <sloj layer="-1">
+        <xOs>544</xOs>
+        <yOs>128</yOs>
+    </sloj>
+    <sloj layer="-1">
+        <xOs>576</xOs>
+        <yOs>128</yOs>
+    </sloj>
+    <sloj layer="-1">
+        <xOs>32</xOs>
+        <yOs>160</yOs>
+    </sloj>
+    <sloj layer="-1">
+        <xOs>64</xOs>
+        <yOs>160</yOs>
+    </sloj>
+    <sloj layer="-1">
+        <xOs>96</xOs>
+        <yOs>160</yOs>
+    </sloj>
+    <sloj layer="-1">
+        <xOs>128</xOs>
+        <yOs>160</yOs>
+    </sloj>
+    <sloj layer="-1">
+        <xOs>160</xOs>
+        <yOs>160</yOs>
+    </sloj>
+    <sloj layer="-1">
+        <xOs>192</xOs>
+        <yOs>160</yOs>
+    </sloj>
+    <sloj layer="-1">
+        <xOs>224</xOs>
+        <yOs>160</yOs>
+    </sloj>
+    <sloj layer="-1">
+        <xOs>256</xOs>
+        <yOs>160</yOs>
+    </sloj>
+    <sloj layer="-1">
+        <xOs>288</xOs>
+        <yOs>160</yOs>
+    </sloj>
+    <sloj layer="-1">
+        <xOs>320</xOs>
+        <yOs>160</yOs>
+    </sloj>
+    <sloj layer="-1">
+        <xOs>352</xOs>
+        <yOs>160</yOs>
+    </sloj>
+    <sloj layer="-1">
+        <xOs>384</xOs>
+        <yOs>160</yOs>
+    </sloj>
+    <sloj layer="-1">
+        <xOs>416</xOs>
+        <yOs>160</yOs>
+    </sloj>
+    <sloj layer="-1">
+        <xOs>448</xOs>
+        <yOs>160</yOs>
+    </sloj>
+    <sloj layer="-1">
+        <xOs>480</xOs>
+        <yOs>160</yOs>
+    </sloj>
+    <sloj layer="-1">
+        <xOs>512</xOs>
+        <yOs>160</yOs>
+    </sloj>
+    <sloj layer="-1">
+        <xOs>544</xOs>
+        <yOs>160</yOs>
+    </sloj>
+    <sloj layer="-1">
+        <xOs>576</xOs>
+        <yOs>160</yOs>
+    </sloj>
+    <sloj layer="-1">
+        <xOs>32</xOs>
+        <yOs>192</yOs>
+    </sloj>
+    <sloj layer="-1">
+        <xOs>64</xOs>
+        <yOs>192</yOs>
+    </sloj>
+    <sloj layer="-1">
+        <xOs>96</xOs>
+        <yOs>192</yOs>
+    </sloj>
+    <sloj layer="-1">
+        <xOs>128</xOs>
+        <yOs>192</yOs>
+    </sloj>
+    <sloj layer="-1">
+        <xOs>160</xOs>
+        <yOs>192</yOs>
+    </sloj>
+    <sloj layer="-1">
+        <xOs>192</xOs>
+        <yOs>192</yOs>
+    </sloj>
+    <sloj layer="-1">
+        <xOs>224</xOs>
+        <yOs>192</yOs>
+    </sloj>
+    <sloj layer="-1">
+        <xOs>256</xOs>
+        <yOs>192</yOs>
+    </sloj>
+    <sloj layer="-1">
+        <xOs>288</xOs>
+        <yOs>192</yOs>
+    </sloj>
+    <sloj layer="-1">
+        <xOs>320</xOs>
+        <yOs>192</yOs>
+    </sloj>
+    <sloj layer="-1">
+        <xOs>352</xOs>
+        <yOs>192</yOs>
+    </sloj>
+    <sloj layer="-1">
+        <xOs>384</xOs>
+        <yOs>192</yOs>
+    </sloj>
+    <sloj layer="-1">
+        <xOs>416</xOs>
+        <yOs>192</yOs>
+    </sloj>
+    <sloj layer="-1">
+        <xOs>448</xOs>
+        <yOs>192</yOs>
+    </sloj>
+    <sloj layer="-1">
+        <xOs>480</xOs>
+        <yOs>192</yOs>
+    </sloj>
+    <sloj layer="-1">
+        <xOs>512</xOs>
+        <yOs>192</yOs>
+    </sloj>
+    <sloj layer="-1">
+        <xOs>544</xOs>
+        <yOs>192</yOs>
+    </sloj>
+    <sloj layer="-1">
+        <xOs>576</xOs>
+        <yOs>192</yOs>
+    </sloj>
+    <sloj layer="-1">
+        <xOs>32</xOs>
+        <yOs>224</yOs>
+    </sloj>
+    <sloj layer="-1">
+        <xOs>64</xOs>
+        <yOs>224</yOs>
+    </sloj>
+    <sloj layer="-1">
+        <xOs>96</xOs>
+        <yOs>224</yOs>
+    </sloj>
+    <sloj layer="-1">
+        <xOs>128</xOs>
+        <yOs>224</yOs>
+    </sloj>
+    <sloj layer="-1">
+        <xOs>160</xOs>
+        <yOs>224</yOs>
+    </sloj>
+    <sloj layer="-1">
+        <xOs>192</xOs>
+        <yOs>224</yOs>
+    </sloj>
+    <sloj layer="-1">
+        <xOs>224</xOs>
+        <yOs>224</yOs>
+    </sloj>
+    <sloj layer="-1">
+        <xOs>256</xOs>
+        <yOs>224</yOs>
+    </sloj>
+    <sloj layer="-1">
+        <xOs>288</xOs>
+        <yOs>224</yOs>
+    </sloj>
+    <sloj layer="-1">
+        <xOs>320</xOs>
+        <yOs>224</yOs>
+    </sloj>
+    <sloj layer="-1">
+        <xOs>352</xOs>
+        <yOs>224</yOs>
+    </sloj>
+    <sloj layer="-1">
+        <xOs>384</xOs>
+        <yOs>224</yOs>
+    </sloj>
+    <sloj layer="-1">
+        <xOs>416</xOs>
+        <yOs>224</yOs>
+    </sloj>
+    <sloj layer="-1">
+        <xOs>448</xOs>
+        <yOs>224</yOs>
+    </sloj>
+    <sloj layer="-1">
+        <xOs>480</xOs>
+        <yOs>224</yOs>
+    </sloj>
+    <sloj layer="-1">
+        <xOs>512</xOs>
+        <yOs>224</yOs>
+    </sloj>
+    <sloj layer="-1">
+        <xOs>544</xOs>
+        <yOs>224</yOs>
+    </sloj>
+    <sloj layer="-1">
+        <xOs>576</xOs>
+        <yOs>224</yOs>
+    </sloj>
+    <sloj layer="-1">
+        <xOs>32</xOs>
+        <yOs>256</yOs>
+    </sloj>
+    <sloj layer="-1">
+        <xOs>64</xOs>
+        <yOs>256</yOs>
+    </sloj>
+    <sloj layer="-1">
+        <xOs>96</xOs>
+        <yOs>256</yOs>
+    </sloj>
+    <sloj layer="-1">
+        <xOs>128</xOs>
+        <yOs>256</yOs>
+    </sloj>
+    <sloj layer="-1">
+        <xOs>160</xOs>
+        <yOs>256</yOs>
+    </sloj>
+    <sloj layer="-1">
+        <xOs>192</xOs>
+        <yOs>256</yOs>
+    </sloj>
+    <sloj layer="-1">
+        <xOs>224</xOs>
+        <yOs>256</yOs>
+    </sloj>
+    <sloj layer="-1">
+        <xOs>256</xOs>
+        <yOs>256</yOs>
+    </sloj>
+    <sloj layer="-1">
+        <xOs>288</xOs>
+        <yOs>256</yOs>
+    </sloj>
+    <sloj layer="-1">
+        <xOs>320</xOs>
+        <yOs>256</yOs>
+    </sloj>
+    <sloj layer="-1">
+        <xOs>352</xOs>
+        <yOs>256</yOs>
+    </sloj>
+    <sloj layer="-1">
+        <xOs>384</xOs>
+        <yOs>256</yOs>
+    </sloj>
+    <sloj layer="-1">
+        <xOs>416</xOs>
+        <yOs>256</yOs>
+    </sloj>
+    <sloj layer="-1">
+        <xOs>448</xOs>
+        <yOs>256</yOs>
+    </sloj>
+    <sloj layer="-1">
+        <xOs>480</xOs>
+        <yOs>256</yOs>
+    </sloj>
+    <sloj layer="-1">
+        <xOs>512</xOs>
+        <yOs>256</yOs>
+    </sloj>
+    <sloj layer="-1">
+        <xOs>544</xOs>
+        <yOs>256</yOs>
+    </sloj>
+    <sloj layer="-1">
+        <xOs>576</xOs>
+        <yOs>256</yOs>
+    </sloj>
+    <sloj layer="-1">
+        <xOs>32</xOs>
+        <yOs>288</yOs>
+    </sloj>
+    <sloj layer="-1">
+        <xOs>64</xOs>
+        <yOs>288</yOs>
+    </sloj>
+    <sloj layer="-1">
+        <xOs>96</xOs>
+        <yOs>288</yOs>
+    </sloj>
+    <sloj layer="-1">
+        <xOs>128</xOs>
+        <yOs>288</yOs>
+    </sloj>
+    <sloj layer="-1">
+        <xOs>160</xOs>
+        <yOs>288</yOs>
+    </sloj>
+    <sloj layer="-1">
+        <xOs>192</xOs>
+        <yOs>288</yOs>
+    </sloj>
+    <sloj layer="-1">
+        <xOs>224</xOs>
+        <yOs>288</yOs>
+    </sloj>
+    <sloj layer="-1">
+        <xOs>256</xOs>
+        <yOs>288</yOs>
+    </sloj>
+    <sloj layer="-1">
+        <xOs>288</xOs>
+        <yOs>288</yOs>
+    </sloj>
+    <sloj layer="-1">
+        <xOs>320</xOs>
+        <yOs>288</yOs>
+    </sloj>
+    <sloj layer="-1">
+        <xOs>352</xOs>
+        <yOs>288</yOs>
+    </sloj>
+    <sloj layer="-1">
+        <xOs>384</xOs>
+        <yOs>288</yOs>
+    </sloj>
+    <sloj layer="-1">
+        <xOs>416</xOs>
+        <yOs>288</yOs>
+    </sloj>
+    <sloj layer="-1">
+        <xOs>448</xOs>
+        <yOs>288</yOs>
+    </sloj>
+    <sloj layer="-1">
+        <xOs>480</xOs>
+        <yOs>288</yOs>
+    </sloj>
+    <sloj layer="-1">
+        <xOs>512</xOs>
+        <yOs>288</yOs>
+    </sloj>
+    <sloj layer="-1">
+        <xOs>544</xOs>
+        <yOs>288</yOs>
+    </sloj>
+    <sloj layer="-1">
+        <xOs>576</xOs>
+        <yOs>288</yOs>
+    </sloj>
+    <sloj layer="-1">
+        <xOs>32</xOs>
+        <yOs>320</yOs>
+    </sloj>
+    <sloj layer="-1">
+        <xOs>64</xOs>
+        <yOs>320</yOs>
+    </sloj>
+    <sloj layer="-1">
+        <xOs>96</xOs>
+        <yOs>320</yOs>
+    </sloj>
+    <sloj layer="-1">
+        <xOs>128</xOs>
+        <yOs>320</yOs>
+    </sloj>
+    <sloj layer="-1">
+        <xOs>160</xOs>
+        <yOs>320</yOs>
+    </sloj>
+    <sloj layer="-1">
+        <xOs>192</xOs>
+        <yOs>320</yOs>
+    </sloj>
+    <sloj layer="-1">
+        <xOs>224</xOs>
+        <yOs>320</yOs>
+    </sloj>
+    <sloj layer="-1">
+        <xOs>256</xOs>
+        <yOs>320</yOs>
+    </sloj>
+    <sloj layer="-1">
+        <xOs>288</xOs>
+        <yOs>320</yOs>
+    </sloj>
+    <sloj layer="-1">
+        <xOs>320</xOs>
+        <yOs>320</yOs>
+    </sloj>
+    <sloj layer="-1">
+        <xOs>352</xOs>
+        <yOs>320</yOs>
+    </sloj>
+    <sloj layer="-1">
+        <xOs>384</xOs>
+        <yOs>320</yOs>
+    </sloj>
+    <sloj layer="-1">
+        <xOs>416</xOs>
+        <yOs>320</yOs>
+    </sloj>
+    <sloj layer="-1">
+        <xOs>448</xOs>
+        <yOs>320</yOs>
+    </sloj>
+    <sloj layer="-1">
+        <xOs>480</xOs>
+        <yOs>320</yOs>
+    </sloj>
+    <sloj layer="-1">
+        <xOs>512</xOs>
+        <yOs>320</yOs>
+    </sloj>
+    <sloj layer="-1">
+        <xOs>544</xOs>
+        <yOs>320</yOs>
+    </sloj>
+    <sloj layer="-1">
+        <xOs>576</xOs>
+        <yOs>320</yOs>
+    </sloj>
+    <sloj layer="-1">
+        <xOs>32</xOs>
+        <yOs>352</yOs>
+    </sloj>
+    <sloj layer="-1">
+        <xOs>64</xOs>
+        <yOs>352</yOs>
+    </sloj>
+    <sloj layer="-1">
+        <xOs>96</xOs>
+        <yOs>352</yOs>
+    </sloj>
+    <sloj layer="-1">
+        <xOs>128</xOs>
+        <yOs>352</yOs>
+    </sloj>
+    <sloj layer="-1">
+        <xOs>160</xOs>
+        <yOs>352</yOs>
+    </sloj>
+    <sloj layer="-1">
+        <xOs>192</xOs>
+        <yOs>352</yOs>
+    </sloj>
+    <sloj layer="-1">
+        <xOs>224</xOs>
+        <yOs>352</yOs>
+    </sloj>
+    <sloj layer="-1">
+        <xOs>352</xOs>
+        <yOs>352</yOs>
+    </sloj>
+    <sloj layer="-1">
+        <xOs>384</xOs>
+        <yOs>352</yOs>
+    </sloj>
+    <sloj layer="-1">
+        <xOs>416</xOs>
+        <yOs>352</yOs>
+    </sloj>
+    <sloj layer="-1">
+        <xOs>448</xOs>
+        <yOs>352</yOs>
+    </sloj>
+    <sloj layer="-1">
+        <xOs>480</xOs>
+        <yOs>352</yOs>
+    </sloj>
+    <sloj layer="-1">
+        <xOs>512</xOs>
+        <yOs>352</yOs>
+    </sloj>
+    <sloj layer="-1">
+        <xOs>544</xOs>
+        <yOs>352</yOs>
+    </sloj>
+    <sloj layer="-1">
+        <xOs>576</xOs>
+        <yOs>352</yOs>
+    </sloj>
+    <sloj layer="-1">
+        <xOs>32</xOs>
+        <yOs>384</yOs>
+    </sloj>
+    <sloj layer="-1">
+        <xOs>64</xOs>
+        <yOs>384</yOs>
+    </sloj>
+    <sloj layer="-1">
+        <xOs>96</xOs>
+        <yOs>384</yOs>
+    </sloj>
+    <sloj layer="-1">
+        <xOs>128</xOs>
+        <yOs>384</yOs>
+    </sloj>
+    <sloj layer="-1">
+        <xOs>160</xOs>
+        <yOs>384</yOs>
+    </sloj>
+    <sloj layer="-1">
+        <xOs>192</xOs>
+        <yOs>384</yOs>
+    </sloj>
+    <sloj layer="-1">
+        <xOs>224</xOs>
+        <yOs>384</yOs>
+    </sloj>
+    <sloj layer="-1">
+        <xOs>256</xOs>
+        <yOs>384</yOs>
+    </sloj>
+    <sloj layer="-1">
+        <xOs>320</xOs>
+        <yOs>384</yOs>
+    </sloj>
+    <sloj layer="-1">
+        <xOs>352</xOs>
+        <yOs>384</yOs>
+    </sloj>
+    <sloj layer="-1">
+        <xOs>384</xOs>
+        <yOs>384</yOs>
+    </sloj>
+    <sloj layer="-1">
+        <xOs>416</xOs>
+        <yOs>384</yOs>
+    </sloj>
+    <sloj layer="-1">
+        <xOs>448</xOs>
+        <yOs>384</yOs>
+    </sloj>
+    <sloj layer="-1">
+        <xOs>480</xOs>
+        <yOs>384</yOs>
+    </sloj>
+    <sloj layer="-1">
+        <xOs>512</xOs>
+        <yOs>384</yOs>
+    </sloj>
+    <sloj layer="-1">
+        <xOs>544</xOs>
+        <yOs>384</yOs>
+    </sloj>
+    <sloj layer="-1">
+        <xOs>576</xOs>
+        <yOs>384</yOs>
+    </sloj>
+    <sloj layer="-1">
+        <xOs>32</xOs>
+        <yOs>416</yOs>
+    </sloj>
+    <sloj layer="-1">
+        <xOs>64</xOs>
+        <yOs>416</yOs>
+    </sloj>
+    <sloj layer="-1">
+        <xOs>96</xOs>
+        <yOs>416</yOs>
+    </sloj>
+    <sloj layer="-1">
+        <xOs>128</xOs>
+        <yOs>416</yOs>
+    </sloj>
+    <sloj layer="-1">
+        <xOs>160</xOs>
+        <yOs>416</yOs>
+    </sloj>
+    <sloj layer="-1">
+        <xOs>192</xOs>
+        <yOs>416</yOs>
+    </sloj>
+    <sloj layer="-1">
+        <xOs>224</xOs>
+        <yOs>416</yOs>
+    </sloj>
+    <sloj layer="-1">
+        <xOs>256</xOs>
+        <yOs>416</yOs>
+    </sloj>
+    <sloj layer="-1">
+        <xOs>320</xOs>
+        <yOs>416</yOs>
+    </sloj>
+    <sloj layer="-1">
+        <xOs>352</xOs>
+        <yOs>416</yOs>
+    </sloj>
+    <sloj layer="-1">
+        <xOs>384</xOs>
+        <yOs>416</yOs>
+    </sloj>
+    <sloj layer="-1">
+        <xOs>416</xOs>
+        <yOs>416</yOs>
+    </sloj>
+    <sloj layer="-1">
+        <xOs>448</xOs>
+        <yOs>416</yOs>
+    </sloj>
+    <sloj layer="-1">
+        <xOs>480</xOs>
+        <yOs>416</yOs>
+    </sloj>
+    <sloj layer="-1">
+        <xOs>512</xOs>
+        <yOs>416</yOs>
+    </sloj>
+    <sloj layer="-1">
+        <xOs>544</xOs>
+        <yOs>416</yOs>
+    </sloj>
+    <sloj layer="-1">
+        <xOs>576</xOs>
+        <yOs>416</yOs>
+    </sloj>
+    <sloj layer="-1">
+        <xOs>32</xOs>
+        <yOs>448</yOs>
+    </sloj>
+    <sloj layer="-1">
+        <xOs>64</xOs>
+        <yOs>448</yOs>
+    </sloj>
+    <sloj layer="-1">
+        <xOs>96</xOs>
+        <yOs>448</yOs>
+    </sloj>
+    <sloj layer="-1">
+        <xOs>128</xOs>
+        <yOs>448</yOs>
+    </sloj>
+    <sloj layer="-1">
+        <xOs>160</xOs>
+        <yOs>448</yOs>
+    </sloj>
+    <sloj layer="-1">
+        <xOs>192</xOs>
+        <yOs>448</yOs>
+    </sloj>
+    <sloj layer="-1">
+        <xOs>224</xOs>
+        <yOs>448</yOs>
+    </sloj>
+    <sloj layer="-1">
+        <xOs>352</xOs>
+        <yOs>448</yOs>
+    </sloj>
+    <sloj layer="-1">
+        <xOs>384</xOs>
+        <yOs>448</yOs>
+    </sloj>
+    <sloj layer="-1">
+        <xOs>416</xOs>
+        <yOs>448</yOs>
+    </sloj>
+    <sloj layer="-1">
+        <xOs>448</xOs>
+        <yOs>448</yOs>
+    </sloj>
+    <sloj layer="-1">
+        <xOs>480</xOs>
+        <yOs>448</yOs>
+    </sloj>
+    <sloj layer="-1">
+        <xOs>512</xOs>
+        <yOs>448</yOs>
+    </sloj>
+    <sloj layer="-1">
+        <xOs>544</xOs>
+        <yOs>448</yOs>
+    </sloj>
+    <sloj layer="-1">
+        <xOs>576</xOs>
+        <yOs>448</yOs>
+    </sloj>
+    <sloj layer="-1">
+        <xOs>32</xOs>
+        <yOs>480</yOs>
+    </sloj>
+    <sloj layer="-1">
+        <xOs>64</xOs>
+        <yOs>480</yOs>
+    </sloj>
+    <sloj layer="-1">
+        <xOs>96</xOs>
+        <yOs>480</yOs>
+    </sloj>
+    <sloj layer="-1">
+        <xOs>128</xOs>
+        <yOs>480</yOs>
+    </sloj>
+    <sloj layer="-1">
+        <xOs>160</xOs>
+        <yOs>480</yOs>
+    </sloj>
+    <sloj layer="-1">
+        <xOs>192</xOs>
+        <yOs>480</yOs>
+    </sloj>
+    <sloj layer="-1">
+        <xOs>224</xOs>
+        <yOs>480</yOs>
+    </sloj>
+    <sloj layer="-1">
+        <xOs>352</xOs>
+        <yOs>480</yOs>
+    </sloj>
+    <sloj layer="-1">
+        <xOs>384</xOs>
+        <yOs>480</yOs>
+    </sloj>
+    <sloj layer="-1">
+        <xOs>416</xOs>
+        <yOs>480</yOs>
+    </sloj>
+    <sloj layer="-1">
+        <xOs>448</xOs>
+        <yOs>480</yOs>
+    </sloj>
+    <sloj layer="-1">
+        <xOs>480</xOs>
+        <yOs>480</yOs>
+    </sloj>
+    <sloj layer="-1">
+        <xOs>512</xOs>
+        <yOs>480</yOs>
+    </sloj>
+    <sloj layer="-1">
+        <xOs>544</xOs>
+        <yOs>480</yOs>
+    </sloj>
+    <sloj layer="-1">
+        <xOs>576</xOs>
+        <yOs>480</yOs>
+    </sloj>
+    <sloj layer="-1">
+        <xOs>32</xOs>
+        <yOs>512</yOs>
+    </sloj>
+    <sloj layer="-1">
+        <xOs>64</xOs>
+        <yOs>512</yOs>
+    </sloj>
+    <sloj layer="-1">
+        <xOs>96</xOs>
+        <yOs>512</yOs>
+    </sloj>
+    <sloj layer="-1">
+        <xOs>128</xOs>
+        <yOs>512</yOs>
+    </sloj>
+    <sloj layer="-1">
+        <xOs>160</xOs>
+        <yOs>512</yOs>
+    </sloj>
+    <sloj layer="-1">
+        <xOs>192</xOs>
+        <yOs>512</yOs>
+    </sloj>
+    <sloj layer="-1">
+        <xOs>224</xOs>
+        <yOs>512</yOs>
+    </sloj>
+    <sloj layer="-1">
+        <xOs>256</xOs>
+        <yOs>512</yOs>
+    </sloj>
+    <sloj layer="-1">
+        <xOs>320</xOs>
+        <yOs>512</yOs>
+    </sloj>
+    <sloj layer="-1">
+        <xOs>352</xOs>
+        <yOs>512</yOs>
+    </sloj>
+    <sloj layer="-1">
+        <xOs>384</xOs>
+        <yOs>512</yOs>
+    </sloj>
+    <sloj layer="-1">
+        <xOs>416</xOs>
+        <yOs>512</yOs>
+    </sloj>
+    <sloj layer="-1">
+        <xOs>448</xOs>
+        <yOs>512</yOs>
+    </sloj>
+    <sloj layer="-1">
+        <xOs>480</xOs>
+        <yOs>512</yOs>
+    </sloj>
+    <sloj layer="-1">
+        <xOs>512</xOs>
+        <yOs>512</yOs>
+    </sloj>
+    <sloj layer="-1">
+        <xOs>544</xOs>
+        <yOs>512</yOs>
+    </sloj>
+    <sloj layer="-1">
+        <xOs>576</xOs>
+        <yOs>512</yOs>
+    </sloj>
+    <sloj layer="-1">
+        <xOs>32</xOs>
+        <yOs>544</yOs>
+    </sloj>
+    <sloj layer="-1">
+        <xOs>64</xOs>
+        <yOs>544</yOs>
+    </sloj>
+    <sloj layer="-1">
+        <xOs>96</xOs>
+        <yOs>544</yOs>
+    </sloj>
+    <sloj layer="-1">
+        <xOs>128</xOs>
+        <yOs>544</yOs>
+    </sloj>
+    <sloj layer="-1">
+        <xOs>160</xOs>
+        <yOs>544</yOs>
+    </sloj>
+    <sloj layer="-1">
+        <xOs>192</xOs>
+        <yOs>544</yOs>
+    </sloj>
+    <sloj layer="-1">
+        <xOs>224</xOs>
+        <yOs>544</yOs>
+    </sloj>
+    <sloj layer="-1">
+        <xOs>256</xOs>
+        <yOs>544</yOs>
+    </sloj>
+    <sloj layer="-1">
+        <xOs>320</xOs>
+        <yOs>544</yOs>
+    </sloj>
+    <sloj layer="-1">
+        <xOs>352</xOs>
+        <yOs>544</yOs>
+    </sloj>
+    <sloj layer="-1">
+        <xOs>384</xOs>
+        <yOs>544</yOs>
+    </sloj>
+    <sloj layer="-1">
+        <xOs>416</xOs>
+        <yOs>544</yOs>
+    </sloj>
+    <sloj layer="-1">
+        <xOs>448</xOs>
+        <yOs>544</yOs>
+    </sloj>
+    <sloj layer="-1">
+        <xOs>480</xOs>
+        <yOs>544</yOs>
+    </sloj>
+    <sloj layer="-1">
+        <xOs>512</xOs>
+        <yOs>544</yOs>
+    </sloj>
+    <sloj layer="-1">
+        <xOs>544</xOs>
+        <yOs>544</yOs>
+    </sloj>
+    <sloj layer="-1">
+        <xOs>576</xOs>
+        <yOs>544</yOs>
+    </sloj>
+    <sloj layer="-1">
+        <xOs>32</xOs>
+        <yOs>576</yOs>
+    </sloj>
+    <sloj layer="-1">
+        <xOs>64</xOs>
+        <yOs>576</yOs>
+    </sloj>
+    <sloj layer="-1">
+        <xOs>96</xOs>
+        <yOs>576</yOs>
+    </sloj>
+    <sloj layer="-1">
+        <xOs>128</xOs>
+        <yOs>576</yOs>
+    </sloj>
+    <sloj layer="-1">
+        <xOs>160</xOs>
+        <yOs>576</yOs>
+    </sloj>
+    <sloj layer="-1">
+        <xOs>192</xOs>
+        <yOs>576</yOs>
+    </sloj>
+    <sloj layer="-1">
+        <xOs>224</xOs>
+        <yOs>576</yOs>
+    </sloj>
+    <sloj layer="-1">
+        <xOs>256</xOs>
+        <yOs>576</yOs>
+    </sloj>
+    <sloj layer="-1">
+        <xOs>320</xOs>
+        <yOs>576</yOs>
+    </sloj>
+    <sloj layer="-1">
+        <xOs>352</xOs>
+        <yOs>576</yOs>
+    </sloj>
+    <sloj layer="-1">
+        <xOs>384</xOs>
+        <yOs>576</yOs>
+    </sloj>
+    <sloj layer="-1">
+        <xOs>416</xOs>
+        <yOs>576</yOs>
+    </sloj>
+    <sloj layer="-1">
+        <xOs>448</xOs>
+        <yOs>576</yOs>
+    </sloj>
+    <sloj layer="-1">
+        <xOs>480</xOs>
+        <yOs>576</yOs>
+    </sloj>
+    <sloj layer="-1">
+        <xOs>512</xOs>
+        <yOs>576</yOs>
+    </sloj>
+    <sloj layer="-1">
+        <xOs>544</xOs>
+        <yOs>576</yOs>
+    </sloj>
+    <sloj layer="-1">
+        <xOs>576</xOs>
+        <yOs>576</yOs>
+    </sloj>
+    <sloj layer="-1">
+        <xOs>256</xOs>
+        <yOs>480</yOs>
+    </sloj>
+    <sloj layer="-1">
+        <xOs>288</xOs>
+        <yOs>512</yOs>
+    </sloj>
+    <sloj layer="-1">
+        <xOs>288</xOs>
+        <yOs>480</yOs>
+    </sloj>
+    <sloj layer="-1">
+        <xOs>288</xOs>
+        <yOs>544</yOs>
+    </sloj>
+    <sloj layer="0">
+        <xOs>0</xOs>
+        <yOs>0</yOs>
+    </sloj>
+    <sloj layer="0">
+        <xOs>32</xOs>
+        <yOs>0</yOs>
+    </sloj>
+    <sloj layer="0">
+        <xOs>64</xOs>
+        <yOs>0</yOs>
+    </sloj>
+    <sloj layer="0">
+        <xOs>96</xOs>
+        <yOs>0</yOs>
+    </sloj>
+    <sloj layer="0">
+        <xOs>128</xOs>
+        <yOs>0</yOs>
+    </sloj>
+    <sloj layer="0">
+        <xOs>160</xOs>
+        <yOs>0</yOs>
+    </sloj>
+    <sloj layer="0">
+        <xOs>192</xOs>
+        <yOs>0</yOs>
+    </sloj>
+    <sloj layer="0">
+        <xOs>224</xOs>
+        <yOs>0</yOs>
+    </sloj>
+    <sloj layer="0">
+        <xOs>256</xOs>
+        <yOs>0</yOs>
+    </sloj>
+    <sloj layer="0">
+        <xOs>288</xOs>
+        <yOs>0</yOs>
+    </sloj>
+    <sloj layer="0">
+        <xOs>320</xOs>
+        <yOs>0</yOs>
+    </sloj>
+    <sloj layer="0">
+        <xOs>352</xOs>
+        <yOs>0</yOs>
+    </sloj>
+    <sloj layer="0">
+        <xOs>384</xOs>
+        <yOs>0</yOs>
+    </sloj>
+    <sloj layer="0">
+        <xOs>416</xOs>
+        <yOs>0</yOs>
+    </sloj>
+    <sloj layer="0">
+        <xOs>448</xOs>
+        <yOs>0</yOs>
+    </sloj>
+    <sloj layer="0">
+        <xOs>480</xOs>
+        <yOs>0</yOs>
+    </sloj>
+    <sloj layer="0">
+        <xOs>512</xOs>
+        <yOs>0</yOs>
+    </sloj>
+    <sloj layer="0">
+        <xOs>544</xOs>
+        <yOs>0</yOs>
+    </sloj>
+    <sloj layer="0">
+        <xOs>576</xOs>
+        <yOs>0</yOs>
+    </sloj>
+    <sloj layer="0">
+        <xOs>608</xOs>
+        <yOs>0</yOs>
+    </sloj>
+    <sloj layer="0">
+        <xOs>0</xOs>
+        <yOs>32</yOs>
+    </sloj>
+    <sloj layer="0">
+        <xOs>32</xOs>
+        <yOs>32</yOs>
+    </sloj>
+    <sloj layer="0">
+        <xOs>64</xOs>
+        <yOs>32</yOs>
+    </sloj>
+    <sloj layer="0">
+        <xOs>96</xOs>
+        <yOs>32</yOs>
+    </sloj>
+    <sloj layer="0">
+        <xOs>128</xOs>
+        <yOs>32</yOs>
+    </sloj>
+    <sloj layer="0">
+        <xOs>160</xOs>
+        <yOs>32</yOs>
+    </sloj>
+    <sloj layer="0">
+        <xOs>192</xOs>
+        <yOs>32</yOs>
+    </sloj>
+    <sloj layer="0">
+        <xOs>224</xOs>
+        <yOs>32</yOs>
+    </sloj>
+    <sloj layer="0">
+        <xOs>256</xOs>
+        <yOs>32</yOs>
+    </sloj>
+    <sloj layer="0">
+        <xOs>288</xOs>
+        <yOs>32</yOs>
+    </sloj>
+    <sloj layer="0">
+        <xOs>320</xOs>
+        <yOs>32</yOs>
+    </sloj>
+    <sloj layer="0">
+        <xOs>352</xOs>
+        <yOs>32</yOs>
+    </sloj>
+    <sloj layer="0">
+        <xOs>384</xOs>
+        <yOs>32</yOs>
+    </sloj>
+    <sloj layer="0">
+        <xOs>416</xOs>
+        <yOs>32</yOs>
+    </sloj>
+    <sloj layer="0">
+        <xOs>448</xOs>
+        <yOs>32</yOs>
+    </sloj>
+    <sloj layer="0">
+        <xOs>480</xOs>
+        <yOs>32</yOs>
+    </sloj>
+    <sloj layer="0">
+        <xOs>512</xOs>
+        <yOs>32</yOs>
+    </sloj>
+    <sloj layer="0">
+        <xOs>544</xOs>
+        <yOs>32</yOs>
+    </sloj>
+    <sloj layer="0">
+        <xOs>576</xOs>
+        <yOs>32</yOs>
+    </sloj>
+    <sloj layer="0">
+        <xOs>608</xOs>
+        <yOs>32</yOs>
+    </sloj>
+    <sloj layer="0">
+        <xOs>0</xOs>
+        <yOs>64</yOs>
+    </sloj>
+    <sloj layer="0">
+        <xOs>32</xOs>
+        <yOs>64</yOs>
+    </sloj>
+    <sloj layer="0">
+        <xOs>64</xOs>
+        <yOs>64</yOs>
+    </sloj>
+    <sloj layer="0">
+        <xOs>96</xOs>
+        <yOs>64</yOs>
+    </sloj>
+    <sloj layer="0">
+        <xOs>128</xOs>
+        <yOs>64</yOs>
+    </sloj>
+    <sloj layer="0">
+        <xOs>160</xOs>
+        <yOs>64</yOs>
+    </sloj>
+    <sloj layer="0">
+        <xOs>192</xOs>
+        <yOs>64</yOs>
+    </sloj>
+    <sloj layer="0">
+        <xOs>224</xOs>
+        <yOs>64</yOs>
+    </sloj>
+    <sloj layer="0">
+        <xOs>256</xOs>
+        <yOs>64</yOs>
+    </sloj>
+    <sloj layer="0">
+        <xOs>288</xOs>
+        <yOs>64</yOs>
+    </sloj>
+    <sloj layer="0">
+        <xOs>320</xOs>
+        <yOs>64</yOs>
+    </sloj>
+    <sloj layer="0">
+        <xOs>352</xOs>
+        <yOs>64</yOs>
+    </sloj>
+    <sloj layer="0">
+        <xOs>384</xOs>
+        <yOs>64</yOs>
+    </sloj>
+    <sloj layer="0">
+        <xOs>416</xOs>
+        <yOs>64</yOs>
+    </sloj>
+    <sloj layer="0">
+        <xOs>448</xOs>
+        <yOs>64</yOs>
+    </sloj>
+    <sloj layer="0">
+        <xOs>480</xOs>
+        <yOs>64</yOs>
+    </sloj>
+    <sloj layer="0">
+        <xOs>512</xOs>
+        <yOs>64</yOs>
+    </sloj>
+    <sloj layer="0">
+        <xOs>544</xOs>
+        <yOs>64</yOs>
+    </sloj>
+    <sloj layer="0">
+        <xOs>576</xOs>
+        <yOs>64</yOs>
+    </sloj>
+    <sloj layer="0">
+        <xOs>608</xOs>
+        <yOs>64</yOs>
+    </sloj>
+    <sloj layer="0">
+        <xOs>0</xOs>
+        <yOs>96</yOs>
+    </sloj>
+    <sloj layer="0">
+        <xOs>608</xOs>
+        <yOs>96</yOs>
+    </sloj>
+    <sloj layer="0">
+        <xOs>0</xOs>
+        <yOs>128</yOs>
+    </sloj>
+    <sloj layer="0">
+        <xOs>608</xOs>
+        <yOs>128</yOs>
+    </sloj>
+    <sloj layer="0">
+        <xOs>0</xOs>
+        <yOs>160</yOs>
+    </sloj>
+    <sloj layer="0">
+        <xOs>608</xOs>
+        <yOs>160</yOs>
+    </sloj>
+    <sloj layer="0">
+        <xOs>0</xOs>
+        <yOs>192</yOs>
+    </sloj>
+    <sloj layer="0">
+        <xOs>608</xOs>
+        <yOs>192</yOs>
+    </sloj>
+    <sloj layer="0">
+        <xOs>0</xOs>
+        <yOs>224</yOs>
+    </sloj>
+    <sloj layer="0">
+        <xOs>608</xOs>
+        <yOs>224</yOs>
+    </sloj>
+    <sloj layer="0">
+        <xOs>0</xOs>
+        <yOs>256</yOs>
+    </sloj>
+    <sloj layer="0">
+        <xOs>608</xOs>
+        <yOs>256</yOs>
+    </sloj>
+    <sloj layer="0">
+        <xOs>0</xOs>
+        <yOs>288</yOs>
+    </sloj>
+    <sloj layer="0">
+        <xOs>608</xOs>
+        <yOs>288</yOs>
+    </sloj>
+    <sloj layer="0">
+        <xOs>0</xOs>
+        <yOs>320</yOs>
+    </sloj>
+    <sloj layer="0">
+        <xOs>608</xOs>
+        <yOs>320</yOs>
+    </sloj>
+    <sloj layer="0">
+        <xOs>0</xOs>
+        <yOs>352</yOs>
+    </sloj>
+    <sloj layer="0">
+        <xOs>256</xOs>
+        <yOs>352</yOs>
+    </sloj>
+    <sloj layer="0">
+        <xOs>288</xOs>
+        <yOs>352</yOs>
+    </sloj>
+    <sloj layer="0">
+        <xOs>320</xOs>
+        <yOs>352</yOs>
+    </sloj>
+    <sloj layer="0">
+        <xOs>608</xOs>
+        <yOs>352</yOs>
+    </sloj>
+    <sloj layer="0">
+        <xOs>0</xOs>
+        <yOs>384</yOs>
+    </sloj>
+    <sloj layer="0">
+        <xOs>288</xOs>
+        <yOs>384</yOs>
+    </sloj>
+    <sloj layer="0">
+        <xOs>608</xOs>
+        <yOs>384</yOs>
+    </sloj>
+    <sloj layer="0">
+        <xOs>0</xOs>
+        <yOs>416</yOs>
+    </sloj>
+    <sloj layer="0">
+        <xOs>288</xOs>
+        <yOs>416</yOs>
+    </sloj>
+    <sloj layer="0">
+        <xOs>608</xOs>
+        <yOs>416</yOs>
+    </sloj>
+    <sloj layer="0">
+        <xOs>0</xOs>
+        <yOs>448</yOs>
+    </sloj>
+    <sloj layer="0">
+        <xOs>256</xOs>
+        <yOs>448</yOs>
+    </sloj>
+    <sloj layer="0">
+        <xOs>288</xOs>
+        <yOs>448</yOs>
+    </sloj>
+    <sloj layer="0">
+        <xOs>320</xOs>
+        <yOs>448</yOs>
+    </sloj>
+    <sloj layer="0">
+        <xOs>608</xOs>
+        <yOs>448</yOs>
+    </sloj>
+    <sloj layer="0">
+        <xOs>0</xOs>
+        <yOs>480</yOs>
+    </sloj>
+    <sloj layer="0">
+        <xOs>608</xOs>
+        <yOs>480</yOs>
+    </sloj>
+    <sloj layer="0">
+        <xOs>0</xOs>
+        <yOs>512</yOs>
+    </sloj>
+    <sloj layer="0">
+        <xOs>608</xOs>
+        <yOs>512</yOs>
+    </sloj>
+    <sloj layer="0">
+        <xOs>0</xOs>
+        <yOs>544</yOs>
+    </sloj>
+    <sloj layer="0">
+        <xOs>608</xOs>
+        <yOs>544</yOs>
+    </sloj>
+    <sloj layer="0">
+        <xOs>0</xOs>
+        <yOs>576</yOs>
+    </sloj>
+    <sloj layer="0">
+        <xOs>608</xOs>
+        <yOs>576</yOs>
+    </sloj>
+    <sloj layer="0">
+        <xOs>0</xOs>
+        <yOs>608</yOs>
+    </sloj>
+    <sloj layer="0">
+        <xOs>32</xOs>
+        <yOs>608</yOs>
+    </sloj>
+    <sloj layer="0">
+        <xOs>64</xOs>
+        <yOs>608</yOs>
+    </sloj>
+    <sloj layer="0">
+        <xOs>96</xOs>
+        <yOs>608</yOs>
+    </sloj>
+    <sloj layer="0">
+        <xOs>128</xOs>
+        <yOs>608</yOs>
+    </sloj>
+    <sloj layer="0">
+        <xOs>160</xOs>
+        <yOs>608</yOs>
+    </sloj>
+    <sloj layer="0">
+        <xOs>192</xOs>
+        <yOs>608</yOs>
+    </sloj>
+    <sloj layer="0">
+        <xOs>224</xOs>
+        <yOs>608</yOs>
+    </sloj>
+    <sloj layer="0">
+        <xOs>256</xOs>
+        <yOs>608</yOs>
+    </sloj>
+    <sloj layer="0">
+        <xOs>288</xOs>
+        <yOs>608</yOs>
+    </sloj>
+    <sloj layer="0">
+        <xOs>320</xOs>
+        <yOs>608</yOs>
+    </sloj>
+    <sloj layer="0">
+        <xOs>352</xOs>
+        <yOs>608</yOs>
+    </sloj>
+    <sloj layer="0">
+        <xOs>384</xOs>
+        <yOs>608</yOs>
+    </sloj>
+    <sloj layer="0">
+        <xOs>416</xOs>
+        <yOs>608</yOs>
+    </sloj>
+    <sloj layer="0">
+        <xOs>448</xOs>
+        <yOs>608</yOs>
+    </sloj>
+    <sloj layer="0">
+        <xOs>480</xOs>
+        <yOs>608</yOs>
+    </sloj>
+    <sloj layer="0">
+        <xOs>512</xOs>
+        <yOs>608</yOs>
+    </sloj>
+    <sloj layer="0">
+        <xOs>544</xOs>
+        <yOs>608</yOs>
+    </sloj>
+    <sloj layer="0">
+        <xOs>576</xOs>
+        <yOs>608</yOs>
+    </sloj>
+    <sloj layer="0">
+        <xOs>608</xOs>
+        <yOs>608</yOs>
+    </sloj>
+    <sloj layer="1">
+        <xOs>320</xOs>
+        <yOs>480</yOs>
+    </sloj>
+    <sloj layer="1">
+        <xOs>288</xOs>
+        <yOs>576</yOs>
+    </sloj>
+    <sloj layer="2">
+        <xOs>158</xOs>
+        <yOs>387</yOs>
+    </sloj>
+</sprites>
